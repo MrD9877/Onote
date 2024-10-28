@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mrd9877.github.io/Onote/static/css/main.7ca66826.css",
-    "main.js": "/mrd9877.github.io/Onote/static/js/main.f5611942.js",
-    "static/js/453.a2a96787.chunk.js": "/mrd9877.github.io/Onote/static/js/453.a2a96787.chunk.js",
-    "static/media/Settings.gif": "/mrd9877.github.io/Onote/static/media/Settings.816e2b9b9cf8e61a5db0.gif",
-    "static/media/discord-round.avif": "/mrd9877.github.io/Onote/static/media/discord-round.b5e69db73a83b5a773a7.avif",
-    "static/media/github.svg": "/mrd9877.github.io/Onote/static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
-    "index.html": "/mrd9877.github.io/Onote/index.html",
-    "main.7ca66826.css.map": "/mrd9877.github.io/Onote/static/css/main.7ca66826.css.map",
-    "main.f5611942.js.map": "/mrd9877.github.io/Onote/static/js/main.f5611942.js.map",
-    "453.a2a96787.chunk.js.map": "/mrd9877.github.io/Onote/static/js/453.a2a96787.chunk.js.map"
+    "main.css": "/Onote/static/css/main.7ca66826.css",
+    "main.js": "/Onote/static/js/main.d993f635.js",
+    "static/js/453.a2a96787.chunk.js": "/Onote/static/js/453.a2a96787.chunk.js",
+    "static/media/Settings.gif": "/Onote/static/media/Settings.816e2b9b9cf8e61a5db0.gif",
+    "static/media/discord-round.avif": "/Onote/static/media/discord-round.b5e69db73a83b5a773a7.avif",
+    "static/media/github.svg": "/Onote/static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/Onote/index.html",
+    "main.7ca66826.css.map": "/Onote/static/css/main.7ca66826.css.map",
+    "main.d993f635.js.map": "/Onote/static/js/main.d993f635.js.map",
+    "453.a2a96787.chunk.js.map": "/Onote/static/js/453.a2a96787.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca66826.css",
-    "static/js/main.f5611942.js"
+    "static/js/main.d993f635.js"
   ]
 }
